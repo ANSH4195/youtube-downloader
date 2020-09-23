@@ -9,6 +9,8 @@ eel.init('web')
 hq_size = 0
 lq_size = 0
 
+# Un-necessary comment
+
 
 @eel.expose
 def selectFolder():
